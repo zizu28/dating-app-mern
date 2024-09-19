@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Zulka Ziblim",
+  "license": "ISC",
+  "description": "The backend for the dating app",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.6.3"
+  }
+}
